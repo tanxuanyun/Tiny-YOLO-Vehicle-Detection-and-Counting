@@ -81,8 +81,8 @@ Colab notebook used for reference: https://github.com/victor-mageto/multiple-ima
 This is the guide used to label dataset: https://youtu.be/EGQyDla8JNU
 
 ### Training
-This is the guide used to train on local machine: https://youtu.be/zJDUhGL26iU
-This is the guide used to train on google colab: https://youtu.be/10joRJt39Ns
+- This is the guide used to train on local machine: https://youtu.be/zJDUhGL26iU
+- This is the guide used to train on google colab: https://youtu.be/10joRJt39Ns
 
 ## Counting Vehicle
 Code reference: https://github.com/augmentedstartups/YOLOv4-Tutorials 
