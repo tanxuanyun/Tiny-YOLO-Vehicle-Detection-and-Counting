@@ -74,7 +74,6 @@ $ python3 bing_images_download.py -u ‘<URL of after searching the photo>' --li
 $ python3 bing_images_download.py -u ‘https://www.bing.com/images/search?q=6-
 Seat+Golf+Cart&FORM=RESTAB' --limit 120 --chromedriver /home/<user name>/chromedriver 
 ```
-$ 
 
 ### Data Augmentation
 Colab notebook used for reference: https://github.com/victor-mageto/multiple-image-augmentation-using-ImageDataGenerator-/blob/master/original_data_augmentation.ipynb
