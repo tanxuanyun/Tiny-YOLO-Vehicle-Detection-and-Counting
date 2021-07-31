@@ -71,8 +71,7 @@ This is the guide used to download dataset: https://youtu.be/zJDUhGL26iU
 - Download the images
 ```
 $ python3 bing_images_download.py -u ‘<URL of after searching the photo>' --limit <Max No. of image> --chromedriver <address of chromedriver> 
-$ python3 bing_images_download.py -u ‘https://www.bing.com/images/search?q=6-
-Seat+Golf+Cart&FORM=RESTAB' --limit 120 --chromedriver /home/<user name>/chromedriver 
+$ python3 bing_images_download.py -u ‘https://www.bing.com/images/search?q=6-Seat+Golf+Cart&FORM=RESTAB' --limit 120 --chromedriver /home/<user name>/chromedriver 
 ```
 
 ### Data Augmentation
