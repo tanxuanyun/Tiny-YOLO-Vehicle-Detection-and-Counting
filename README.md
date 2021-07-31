@@ -1,5 +1,4 @@
-Vehicle Detection and Counting with tiny-YOLO
-
+# Vehicle Detection and Counting with tiny-YOLO
 YOLO a deep learning computer vision model is used to detect and count the number of vehicle on the road to determine the traffic situation. 
 
 ## Table of Contents
