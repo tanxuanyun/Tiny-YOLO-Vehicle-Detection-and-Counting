@@ -6,7 +6,9 @@ YOLO a deep learning computer vision model is used to detect and count the numbe
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Test Dependencies](#test-dependencies) 
+* [Test Dependencies](#test-dependencies)
+* [Training](#training)
+* [Counting Vehicle](#counting vehicle) 
 
 ## General Information
 
