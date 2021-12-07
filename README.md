@@ -1,4 +1,4 @@
-# Vehicle Detection and Counting with tiny-YOLO
+# Vehicle Detection and Counting with Tiny-YOLO
 YOLO a deep learning computer vision model is used to detect and count the number of vehicle on the road to determine the traffic situation. 
 
 ## Table of Contents
@@ -12,7 +12,7 @@ YOLO a deep learning computer vision model is used to detect and count the numbe
 
 ## General Information
 
-This intelligent transport system project aims to reduce manpower needed for an autonomous vehicle test trial by building dynamic roadblocks (a.k.a Smart traffic lights). Cameras are installed to monitor traffic conditions so that the traffic light can make a better decision on what the logic should be. To determine the traffic situation, tiny-YOLO, a computer vision model is used to detect and count the vehicle.   
+This intelligent transport system project aims to reduce manpower needed and coordination work for an autonomous vehicle test trial by building dynamic roadblocks (a.k.a Smart traffic lights). Cameras are installed to monitor traffic conditions so that the traffic light can make a better decision on what the logic should be. To determine the traffic situation, tiny-YOLO, a computer vision model is used to detect and count the vehicle.   
 
 ## Technologies Used
 
@@ -77,7 +77,7 @@ $ python3 bing_images_download.py -u ‘https://www.bing.com/images/search?q=6-S
 ### Data Augmentation
 Colab notebook used for reference: https://github.com/victor-mageto/multiple-image-augmentation-using-ImageDataGenerator-/blob/master/original_data_augmentation.ipynb
 
-### Labeling
+### Labelling
 This is the guide used to label dataset: https://youtu.be/EGQyDla8JNU
 
 ### Training
